@@ -2,8 +2,8 @@
 ## 👨🏻‍💻 About Me
 [![Profile Views](https://gpvc.arturio.dev/christianfranco15)](https://github.com/ChristianFranco15)  [<img src="https://img.shields.io/github/followers/christianfranco15?label=Followers" style=" float:left, margin-right:10px" />](https://github.com/ChristianFranco15)&nbsp;<a href="mailto:cfranco1010@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-cfranco1010@gmail.com-blue?style=flat&logo=gmail&logoColor=EA4335"></a>&nbsp;<a href="https://www.linkedin.com/in/christianfranco15/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20Franco-blue?style=flat&logo=linkedin&logoColor=0A66C2"></a>
 
-I am a self-taught data engineer and programmer who is passionate about working with all kinds of data. I'm interested in designing and implementing various tools to make data more effective and impactful. 
- 
+I am a self-taught data engineer and programmer who is passionate about working with all kinds of data. I'm interested in designing and implementing various tools to make data more effective and impactful. Currently open to job opportunities.
+
 Check out these repositories for my portfolio projects:
 <img align="right" alt="Coding" width="175" src="https://www.datamation.com/wp-content/uploads/2022/02/AdobeStock_382964272-696x484.jpeg">
 - [`data-engineering-portfolio`](https://github.com/ChristianFranco15/data-engineering-portfolio)
