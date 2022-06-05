@@ -5,7 +5,7 @@
 I am a self-taught data engineer and programmer who is passionate about working with big data. I'm interested in designing and implementing various tools to make data more effective and impactful. 
  
 Check out these repositories for my portfolio projects:
-<img align="right" alt="Coding" width="150" src="https://www.datamation.com/wp-content/uploads/2022/02/AdobeStock_382964272-696x484.jpeg">
+<img align="right" alt="Coding" width="175" src="https://www.datamation.com/wp-content/uploads/2022/02/AdobeStock_382964272-696x484.jpeg">
 - [`data-engineering-portfolio`](https://github.com/ChristianFranco15/data-engineering-portfolio)
 - [`data-analysis-portfolio`](https://github.com/ChristianFranco15/data-analysis-portfolio)
 
