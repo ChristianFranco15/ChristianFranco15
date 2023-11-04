@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 
-[![Profile Views](https://gpvc.arturio.dev/christianfranco15)](https://github.com/ChristianFranco15) [<img src="https://img.shields.io/github/followers/christianfranco15?label=Followers" style=" float:left; margin-right:10px;" />](https://github.com/ChristianFranco15)&nbsp;<a href="mailto:christianfrancodata@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-christianfrancodata@gmail.com-blue?style=flat&logo=gmail&logoColor=EA4335"></a>&nbsp;<a href="https://www.linkedin.com/in/christianfranco15/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20Franco-blue?style=flat&logo=linkedin&logoColor=0A66C2"></a>
+<a href="mailto:christianfrancodata@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-christianfrancodata@gmail.com-blue?style=flat&logo=gmail&logoColor=EA4335"></a>&nbsp;<a href="https://www.linkedin.com/in/christianfranco15/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20Franco-blue?style=flat&logo=linkedin&logoColor=0A66C2"></a>
 
 I am a self-taught data engineer and data analyst who is passionate about working with all kinds of data. I'm interested in designing and implementing various tools to make data more effective and impactful.
 
